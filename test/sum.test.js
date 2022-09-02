@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+
 const sum = require('../src/sum.js');
 
 test('adds 1 + 2 to equal 3', () => {
